@@ -1,0 +1,11 @@
+[minio]
+endpoint="localhost:9000"
+# Change the key to yours
+accessKeyID="3DrySmRP9h9KAjpBV4dR"
+# Change the key to yours
+secretAccessKey="X2RX8K25vXyH3tYhsD6ZEB7z1VZSJ9UnhLXjlJZy"
+useSSL=false
+bucketName="file-storage"
+# Change this key to yours
+encryptionKey="6368616e676520746869732070617373776f726420746f206120736563726574"
+chunking=false
