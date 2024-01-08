@@ -17,7 +17,7 @@ The configuration uses TOML format in the file `config.toml`. The file format is
 - chunking `bool` option if the files will be uploaded in chunks
 
 The `config.toml` contains an example with example keys. `NEVER UPLOAD THE REAL KEYS`.
-
+> Restart the application after configuration changes
 ### Build and Run
 After completing the `configuration.toml` and before starting the main application run to start minio container from the main folder
 ```console
